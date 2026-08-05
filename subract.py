@@ -1,7 +1,7 @@
 # Subtraction function
 def subtract_numbers(a, b):
     """
-    This function subtracts two numbers.
+    Subtracts the second number from the first number.
 
     Parameters:
     a (int): The first number.
