@@ -7,6 +7,6 @@ def subtract_numbers(a, b):
     a (int): The first number.
     b (int): The second number.
     Returns:
-    int: The result of a minus b.
+    int: The difference of a and b.
     """
     return a - b
