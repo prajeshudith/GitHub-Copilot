@@ -1,12 +1,12 @@
 # Subtraction function
-def subtract_numbers(a, b):
+def subtract_numbers(x, y):
     """
     Subtracts the second number from the first number.
 
     Parameters:
-    a (int): The first number.
-    b (int): The second number.
+    x (int): The first number.
+    y (int): The second number.
     Returns:
-    int: The difference of a and b.
+    int: The difference of x and y.
     """
-    return a - b
+    return x - y
