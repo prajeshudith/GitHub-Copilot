@@ -1,12 +1,11 @@
-def sum_numbers(a, b):
+def sum_numbers(x, y):
     """
     Sums two numbers.
 
     Parameters:
-    a (int): The first number.
-    b (int): The second number.
-
+    x (int): The first number.
+    y (int): The second number.
     Returns:
-    int: The sum of a and b.
+    int: The sum of x and y.
     """
-    return a + b
+    return x + y
